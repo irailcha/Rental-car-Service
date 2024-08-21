@@ -4,7 +4,7 @@ import { Layout } from '../Layout/Layout';
 import { BodyContainer } from './App.styled';
 import Home from '../../pages/Home/Home';
 import Adverts from '../../pages/Adverts/Adverts';
-import { Loader } from '../helpers/Loader'; 
+
 
 const ErrorPage = lazy(() => import('../../pages/ErrorPage'));
 
